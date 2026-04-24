@@ -1,0 +1,85 @@
+.parrafo {
+  text-align: center;
+  padding: 5px;
+  border: solid black 1px;
+  border-radius: 30px;
+  margin-top: 30px;
+  margin-left: 250px;
+  margin-right: 250px;
+  font-size: 20px;
+  background-color: rgb(255, 244, 231);
+}
+
+.parrafo-1 {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-left: 250px;
+  margin-right: 250px;
+  font-size: 20px;
+  border: solid black 1px;
+  border-radius: 30px;
+  background-color: rgb(255, 244, 231);
+}
+h3 {
+  margin-left: 250px;
+  background-color: rgb(255, 244, 231);
+  border: solid black 1px;
+  margin-left: 250px;
+  margin-right: 250px;
+  text-align: center;
+  margin: left 50px;
+  border-radius: 50px;
+}
+.parrafo-2 {
+  text-align: center;
+  padding: 5px;
+  border: solid black 1px;
+  border-radius: 30px;
+  margin-top: 10px;
+  margin-left: 250px;
+  margin-right: 250px;
+  font-size: 20px;
+  background-color: rgb(255, 244, 231);
+}
+.cafe {
+  margin: auto;
+  margin-left: 450px;
+}
+
+body {
+  background: url(/assets/img_inicio/Gemini_Generated_Image_2zrhxu2zrhxu2zrh.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.taza-sirviendo {
+  margin: auto;
+
+  width: 800px;
+}
+.parrafo-3 {
+  padding: 5px;
+  border: solid black 1px;
+  border-radius: 30px;
+  margin-top: 10px;
+  font-size: 24px;
+  background-color: rgb(255, 244, 231);
+}
+.métodos {
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  border: solid black 1px;
+  border-radius: 30px;
+  margin: 20px;
+  background-color: rgb(255, 232, 203);
+}
+.footer_idex {
+  color: aliceblue;
+}
