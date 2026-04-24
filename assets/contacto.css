@@ -1,0 +1,28 @@
+/* {
+  margin: 0;
+  padding: 0;
+}
+*/
+body {
+  background: url(/assets/img_inicio/Gemini_Generated_Image_2zrhxu2zrhxu2zrh.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  background: rgba(0, 0, 0, 0.65);
+  border-radius: 15px;
+  color: white;
+}
+
+footer {
+  margin-top: 50px;
+  padding: 0;
+}
