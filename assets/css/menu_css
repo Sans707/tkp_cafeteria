@@ -1,0 +1,8 @@
+
+.marca {
+    color: aliceblue
+}
+
+.footer_index {
+    background-color: aliceblue;
+}
