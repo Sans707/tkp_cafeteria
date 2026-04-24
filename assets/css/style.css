@@ -1,0 +1,15 @@
+body {
+    background: url(/assets/img_inicio/Gemini_Generated_Image_2zrhxu2zrhxu2zrh.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.marca {
+    color: aliceblue
+}
+
+.footer_index {
+    background-color: aliceblue;
+}

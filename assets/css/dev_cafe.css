@@ -24,6 +24,13 @@
 }
 h3 {
   margin-left: 250px;
+  background-color: rgb(255, 244, 231);
+  border: solid black 1px;
+  margin-left: 250px;
+  margin-right: 250px;
+  text-align: center;
+  margin: left 50px;
+  border-radius: 50px;
 }
 .parrafo-2 {
   text-align: center;
@@ -40,9 +47,15 @@ h3 {
   margin: auto;
   margin-left: 450px;
 }
+
 body {
-  background-color: rgb(255, 250, 244);
+  background: url(/assets/img_inicio/Gemini_Generated_Image_2zrhxu2zrhxu2zrh.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
+
 .taza-sirviendo {
   margin: auto;
 
@@ -66,4 +79,7 @@ body {
   border-radius: 30px;
   margin: 20px;
   background-color: rgb(255, 232, 203);
+}
+.footer_idex {
+  color: aliceblue;
 }
