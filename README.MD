@@ -24,7 +24,7 @@ En este trabajo estamos haciendo una pagina para una cafeteria utilizando el fra
 
 Los componentes de Bostrap utilizados son
 Inicio: Navbar,footer,carousel
-Cafe: Texto H1
+Cafe: Texto H1,H3, parrafos, img
 Contactos: Form
 Menu: grid y utilidades de estilo y texto
 
