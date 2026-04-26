@@ -7,45 +7,30 @@
   margin-left: 250px;
   margin-right: 250px;
   font-size: 20px;
-  background-color: rgb(255, 244, 231);
+  background-color: rgb(255, 255, 255);
 }
 
 .parrafo-1 {
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  border: solid black 2px;
+  border-radius: 20px;
+  padding: 5px;
   text-align: center;
-  display: flex;
-  justify-content: center;
-  margin-top: 10px;
-  margin-left: 250px;
-  margin-right: 250px;
-  font-size: 20px;
-  border: solid black 1px;
-  border-radius: 30px;
-  background-color: rgb(255, 244, 231);
 }
 h3 {
-  margin-left: 250px;
-  background-color: rgb(255, 244, 231);
-  border: solid black 1px;
-  margin-left: 250px;
-  margin-right: 250px;
-  text-align: center;
-  margin: left 50px;
-  border-radius: 50px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+
+  border-radius: 20px;
+  padding: 5px;
 }
 .parrafo-2 {
-  text-align: center;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  border: solid black 2px;
+  border-radius: 20px;
   padding: 5px;
-  border: solid black 1px;
-  border-radius: 30px;
-  margin-top: 10px;
-  margin-left: 250px;
-  margin-right: 250px;
-  font-size: 20px;
-  background-color: rgb(255, 244, 231);
-}
-.cafe {
-  margin: auto;
-  margin-left: 450px;
 }
 
 body {
@@ -56,30 +41,20 @@ body {
   background-attachment: fixed;
 }
 
-.taza-sirviendo {
-  margin: auto;
-
-  width: 800px;
-}
 .parrafo-3 {
-  padding: 5px;
-  border: solid black 1px;
-  border-radius: 30px;
-  margin-top: 10px;
-  font-size: 24px;
-  background-color: rgb(255, 244, 231);
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  padding: 1px;
 }
-.métodos {
-  padding: 30px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 5px;
-  border: solid black 1px;
-  border-radius: 30px;
-  margin: 20px;
-  background-color: rgb(255, 232, 203);
-}
+
 .footer_idex {
   color: aliceblue;
+}
+.parrafo-4 {
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  border: solid black 2px;
+  border-radius: 20px;
+  padding: 5px;
+  font-size: 20px;
 }
